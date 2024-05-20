@@ -55,9 +55,3 @@ Includes US stocks with market cap > 100 Million, and price above $3. It doesn't
 You can download data from here:\
 Source (US stocks):  https://www.nasdaq.com/market-activity/stocks/screener?exchange=nasdaq&letter=0&render=download\
 
-
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
-
